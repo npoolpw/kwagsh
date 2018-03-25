@@ -1,6 +1,6 @@
-var api = "http://apihost.com:port";
+var api = "http://ca.npool.pw:2270";
 
-var poolHost = "apihost.com";
+var poolHost = "ca.npool.pw";
 
 var blockExplorer = "http://blockexplorer.pw/coin";
 
@@ -15,5 +15,6 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"]
+        ["npool.pw/kwagsh", "http://ca.npool.pw:2270"],
+        ["pool.kwagsh.xyz", "https://pool.kwagsh.xyz:8443"]
 ];
